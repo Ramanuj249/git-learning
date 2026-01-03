@@ -1,4 +1,4 @@
-print("Hello git -from feature A")
+print("Hello Git - from feature B")
 print("Working on feature branch")
 
 print("Daily Git Practice - Day 1")
