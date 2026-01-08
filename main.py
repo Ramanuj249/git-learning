@@ -2,7 +2,7 @@ print("Hello Git - from feature B")
 print("Change Via pull Request workflow.")
 print("Working on feature branch")
 
-print("Daily Git Practice - Day 1")
+print("Changes done by teammate on github")
 
 print("This line is from the feature branch")
 print("Message from branch A")
